@@ -1,14 +1,20 @@
 # To run the file, 
 1) download the main.py file
+
 2) keep the transactions.csv file in the same location
 (Please note, if you clone the project, it already has a transactions.csv used by me for testing. Please replace this file with your transactions.csv) !IMPORTANT
+
 3) run the program as python main.py int_val 
-(int_vl represents any integer value)
+(int_vl represents any integer value) !IMPORTANT
+
 4) The answer is printed on the console
-5) Note: Edge cases, wrong inputs, and undesired behaviors are handled by rasining exceptions
+5) Note: Edge cases, wrong inputs, and undesired behaviors are handled by raising exceptions
+
 
 # Rough overview
 This script is used to load and process transactions data from a CSV file and calculate the remaining point balance for each payer after spending a certain amount of points. The data is loaded and processed in the following steps:
+
+# Please Note, I do not provide an extra documentation file, instead, I have thoroughly commented the code to make it more legible.
 
 1) Load data from the CSV file using Pandas.
 2) Keep only the necessary columns.
