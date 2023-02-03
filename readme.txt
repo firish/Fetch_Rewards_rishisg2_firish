@@ -14,7 +14,8 @@
 # Rough overview
 This script is used to load and process transactions data from a CSV file and calculate the remaining point balance for each payer after spending a certain amount of points. The data is loaded and processed in the following steps:
 
-# Please Note, I do not provide an extra documentation file, instead, I have thoroughly commented the code to make it more legible.
+Please Note, I do not provide an extra documentation file, 
+instead, I have thoroughly commented the code to make it more legible.
 
 1) Load data from the CSV file using Pandas.
 2) Keep only the necessary columns.
