@@ -12,7 +12,7 @@ from collections import defaultdict
 __author__ = "Rishi Gulati"
 __email__ = "rishisg2@illinois.edu"
 __challengeUrl__ = "https://docs.google.com/document/d/1Yn_xAonwLOINma3MquU5ag6KoNMkrH3uA-99pJvqaWs/edit"
-__solutionUrl__ = ""
+__solutionUrl__ = "https://github.com/firish/Fetch_Rewards_rishisg2_firish/tree/master"
 __version__ = "0.1.0"
 __license__ = "MIT"
 
